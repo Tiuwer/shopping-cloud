@@ -1,0 +1,15 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: shopping-web
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: entity.common-config
+      profile: dev
+      label: master
+feign:
+  hystrix:
+    enabled: true

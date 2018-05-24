@@ -1,0 +1,7 @@
+com\yxhl\shoppingweb\controller\UserInfoController.class
+com\yxhl\shoppingweb\fallback\UserServiceHystrix.class
+com\yxhl\shoppingweb\controller\system\LoginController.class
+com\yxhl\shoppingweb\serivce\UserInfoService.class
+com\yxhl\shoppingweb\Utils\HttpUtils.class
+com\yxhl\shoppingweb\security\SecurityService.class
+com\yxhl\shoppingweb\ShoppingWebUserApplication.class

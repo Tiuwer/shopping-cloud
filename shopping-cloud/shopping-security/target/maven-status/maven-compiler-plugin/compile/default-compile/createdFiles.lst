@@ -1,0 +1,11 @@
+com\yxhl\shoppingsecurity\TokenAuthenticationService.class
+com\yxhl\shoppingsecurity\WebSecurityConfig.class
+com\yxhl\shoppingsecurity\base\AccountCredentials.class
+com\yxhl\shoppingsecurity\CustomAuthenticationProvider.class
+com\yxhl\shoppingsecurity\JSONResult$1.class
+com\yxhl\shoppingsecurity\ShoppingSecurityApplication.class
+com\yxhl\shoppingsecurity\controller\SecurityController.class
+com\yxhl\shoppingsecurity\base\GrantedAuthorityImpl.class
+com\yxhl\shoppingsecurity\JSONResult.class
+com\yxhl\shoppingsecurity\JWTAuthenticationFilter.class
+com\yxhl\shoppingsecurity\JWTLoginFilter.class

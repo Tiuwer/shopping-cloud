@@ -1,0 +1,4 @@
+entity\common\IdEntity.class
+entity\system\Role.class
+entity\system\User.class
+entity\system\RoleGroup.class
